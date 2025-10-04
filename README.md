@@ -1,5 +1,5 @@
-# BloomBank
-This C++ Bank Management System uses data structures like Hash Table for transactions, Bloom Filter for fraud detection, BST for account management, Graph for relationships, and Loan class for EMI calculations. It supports deposits, withdrawals, alerts, and interactive options in a menu-driven console.
+# BloomBank: A Data-Driven Banking System with Fraud Detection
+Developed a C++-based banking system using Hash Tables, BSTs, and Graphs for efficient data management, integrating a Bloom Filter to detect fraudulent transactions and a Loan module for EMI computation in a menu-driven console interface.
 
 ## Features
 
