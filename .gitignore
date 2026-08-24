@@ -1,0 +1,28 @@
+# Build output
+build/
+out/
+cmake-build-*/
+
+# Compiled binaries and objects
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+cmake_install.cmake
+Testing/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
